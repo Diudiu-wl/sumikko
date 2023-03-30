@@ -4,7 +4,7 @@
 
 ·可爱的桌面角落生物（三只）
 
-可愛いすみっこぐらし（3匹）
+可愛いデスクトップすみっこぐらし（3匹）
 
 Cute desktop sumikko-gurashi (three of them).
 
