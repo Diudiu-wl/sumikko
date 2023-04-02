@@ -2,11 +2,11 @@
 
 ---------------------------------------------
 
-·可爱的桌面角落生物（三只）
+·可以叠起来的桌面角落生物（三只）
 
-可愛いデスクトップすみっこぐらし（3匹）
+積み重ねできる可愛いデスクトップすみっコぐらし（3体）
 
-Cute desktop sumikko-gurashi (three of them).
+Cute desktop sumikko-gurashi that can be piled up(three of them).
 
 ---------------------------------------------
 
