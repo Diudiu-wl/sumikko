@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/p">
+        <file>ima/r1.png</file>
+        <file>ima/r2.png</file>
+        <file>ima/r3.png</file>
+        <file>ima/t0.png</file>
+        <file>ima/t1.png</file>
+        <file>ima/t2.png</file>
+        <file>ima/t3.png</file>
+        <file>ima/t4.png</file>
+        <file>ima/t5.png</file>
+        <file>ima/r0.png</file>
+        <file>ima/n1.png</file>
+        <file>ima/n2.png</file>
+        <file>ima/n3.png</file>
+        <file>ima/d1.png</file>
+        <file>ima/d2.png</file>
+        <file>ima/icon.png</file>
+        <file>ima/icon2.png</file>
+    </qresource>
+</RCC>
