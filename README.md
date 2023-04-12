@@ -10,24 +10,21 @@ Cute desktop sumikko-gurashi that can be piled up(three of them).
 
 ---------------------------------------------
 
+·Qt项目的源代码
 
-·只能在Windows上运行呜呜
+Qtプロジェクトのソースコード
 
-Windowsでしか実行できません　T.T
-
-Can only run on Windows system, unfortunately.
-
----------------------------------------------
-
-
-·下载zip压缩包，打开就可以用啦
-
-Zip圧縮ファイルをダウンロードして、開けば使えます
-
-Download the zip file, and it will be ready to use once opened.
+source code of a Qt project
 
 ---------------------------------------------
 
+·Releases中有可以直接在Windows上运行的exe文件！
+
+ReleasesにはWindows上で直接実行できるexeファイルがあります！
+
+exe files that can directly run on Windows are in Releases!
+
+---------------------------------------------
 
 ·喜欢的话请给个Star支持一下吧！（害羞
 
@@ -36,7 +33,6 @@ Download the zip file, and it will be ready to use once opened.
 If you like it, please give it a star to show your support! (blushing)
 
 ---------------------------------------------
-
 
 ·之后会更新更多好玩的东西，敬请期待~
 
